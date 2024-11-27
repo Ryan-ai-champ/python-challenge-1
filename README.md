@@ -1,2 +1,2 @@
-# python-challenge-1
-python-challenge-1 for ai bootcamp
+# python-challenge-2
+python-challenge-2 for ai bootcamp
